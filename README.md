@@ -14,8 +14,8 @@ In this lab you have learned about multiplexers and demultiplexers.
 ## Lab Questions
 
 ### In plain English describe the function and use of a multiplexer.
-
+A multiplexer is a type of switch that allows you to route one of many input signals to one output line and can be used to reduce wiring by having multiple signals use the same path.
 ### In plain English describe the function and use of a demultiplexer.
-
+A demultiplexer is a type of switch that allows you to route one input signal to one of many output lines, and it can be used to route data from a single source to multiple destinations. 
 ### What other uses might these circuits have? (Think Shannon’s)
-
+ Multiplexers and Demultiplexers can be used to simplify complicated boolean circuits.
